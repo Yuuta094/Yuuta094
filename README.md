@@ -14,13 +14,24 @@ Here are some ideas to get you started:
 -->
   # ¡Hola, soy Iván! 👾
   
-Ingeniero Informático Software graduado en la Universidad de Sevilla, especializado en desarrollo de software con experiencia en full-stack, inteligencia artificial, análisis de datos, gestión de proyectos y desarrollo de videojuegos.
+Ingeniero Informático Software graduado en la Universidad de Sevilla, especializado en desarrollo de software  
+experiencia en: 
+  - Full-stack
+  - Desarrollo web
+  - Desarrollo de aplicaciónes
+  - Inteligencia artificial
+  - Análisis de datos
+  - Gestión de proyectos
+  - Desarrollo de videojuegos.
+
+<p align="center">
+  <a href="https://susatoss.wordpress.com" target="_blank" rel="noreferrer"> <img width="450" src="https://i.pinimg.com/originals/66/20/cf/6620cf06a7990e2439c4aeca9a3c4e91.gif" alt="animated" />
+</p> 
 
 ## 🛠️ Habilidades y Tecnologías
-<p align="center"> 
-  🛠️ Habilidades y Tecnologías
-</p>
-<p align="center"> 
+<p align="center">  
+      🎮 Lenguajes de Programación
+<p align="center">
     <!-- Lenguajes de Programación -->
     <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -52,7 +63,7 @@ Ingeniero Informático Software graduado en la Universidad de Sevilla, especiali
   
 </p>
 <p align="center"> 
-  🛠️ Habilidades y Tecnologías
+  💻 Desarrollo Software
 </p>
 <p align="center"> 
     <!-- Desarrollo Software -->
@@ -84,7 +95,7 @@ Ingeniero Informático Software graduado en la Universidad de Sevilla, especiali
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     </a>
     <a href="https://scrumguides.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Scrum_Guide_2020_logo.svg/1200px-Scrum_Guide_2020_logo.svg.png" alt="scrum" width="40" height="40"/> 
+        <img src="https://user-images.githubusercontent.com/68760595/164306020-120e8664-cb5b-459a-80a3-99e13b057b52.png" alt="scrum" width="40" height="40"/> 
     </a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap"   
          width="40" height="40"/> 
@@ -94,7 +105,7 @@ Ingeniero Informático Software graduado en la Universidad de Sevilla, especiali
     </a>
 </p>
 <p align="center"> 
-  🛠️ Habilidades y Tecnologías
+  🖥️ Entornos de Desarrollo
 </p>
 <p align="center"> 
     <!-- Entornos de Desarrollo -->
@@ -105,25 +116,13 @@ Ingeniero Informático Software graduado en la Universidad de Sevilla, especiali
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="visualstudio" width="40" height="40"/> 
     </a> 
     <a href="https://www.eclipse.org/ide/" target="_blank" rel="noreferrer"> 
-        <img src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png" alt="eclipse" width="40" height="40"/> 
+        <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/> 
     </a> 
-    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="intellij" width="40" height="40"/> 
+    <a href="https://www.jetbrains.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" alt="intellij" width="40" height="40"/> 
     </a>
 </p>
 
-
-
-## 🎮 Proyectos Recientes
-
-### [Nombre del Proyecto 1](link_a_tu_repositorio)
-Un juego de aventuras en Unity donde implementé un sistema de *loot* con probabilidades de caída, detección de límites de escenas y un sistema de habilidades como *SoulCollector*.
-
-### [Nombre del Proyecto 2](link_a_tu_repositorio)
-Una aplicación móvil desarrollada en Flutter para gestionar propiedades, con funcionalidades como añadir, visualizar y organizar garajes.
-
-### [Nombre del Proyecto 3](link_a_tu_repositorio)
-Desarrollo de un sistema de guardado de partidas y objetos en Unity utilizando `BinaryFormatter` y `PlayerPrefs`, donde se mantiene el estado de las gemas y el inventario a través de sesiones de juego.
 
 ## 💡 Acerca de mí
 
@@ -133,9 +132,8 @@ Estoy abierto a colaborar en proyectos interesantes y a aprender de otros desarr
 
 ## 📫 ¿Cómo contactarme?
 
-- **Correo:** [tu_email@example.com](mailto:tu_email@example.com)
-- **LinkedIn:** [Tu LinkedIn](enlace_a_tu_linkedin)
-- **Twitter:** [@TuUsuario](enlace_a_tu_twitter)
+- **Correo:** [YvanSan094@gmail.com](mailto:Yvansan094@gmail.com)
+- **LinkedIn:** [Iván_Sanchez_San_José](https://www.linkedin.com/in/iván-sánchez-san-josé/)
 
 ¡Gracias por visitar mi perfil! 🙌
 
