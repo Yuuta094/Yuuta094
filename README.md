@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
   # ¡Hola, soy Iván! 👾
   
-Ingeniero Informático Software graduado en la Universidad de Sevilla, especializado en desarrollo de software  
-experiencia en: 
+Ingeniero Informático del Software graduado en la Universidad de Sevilla, especializado en desarrollo de software  
+Experiencia en: 
   - Full-stack
   - Desarrollo web
   - Desarrollo de aplicaciónes
