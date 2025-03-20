@@ -141,6 +141,7 @@ Estoy abierto a colaborar en proyectos interesantes y a aprender de otros desarr
 
 - **Correo:** [YvanSan094@gmail.com](mailto:Yvansan094@gmail.com)
 - **LinkedIn:** [Iván_Sanchez_San_José](https://www.linkedin.com/in/iván-sánchez-san-josé/)
+- **Teléfono:** 651 35 23 68
 
 ¡Gracias por visitar mi perfil! 🙌
 
