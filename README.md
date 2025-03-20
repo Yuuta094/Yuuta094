@@ -60,6 +60,9 @@ Experiencia en:
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     </a>
+        <a href="https://dart.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
+    </a>
   
 </p>
 <p align="center"> 
@@ -86,7 +89,7 @@ Experiencia en:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
     </a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" width="40" height="40"/> 
+        <img src="https://img.icons8.com/fluent/512/unity.png" alt="unity" width="40" height="40"/> 
     </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -103,6 +106,10 @@ Experiencia en:
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" 
       alt="blender" width="40" height="40"/> 
     </a>
+      <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
+    </a>
+  
 </p>
 <p align="center"> 
   🖥️ Entornos de Desarrollo
