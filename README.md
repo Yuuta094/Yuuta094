@@ -25,7 +25,7 @@ Experiencia en:
   - Desarrollo de videojuegos.
 
 <p align="center">
-  <a href="https://susatoss.wordpress.com" target="_blank" rel="noreferrer"> <img width="450" src="https://i.pinimg.com/originals/66/20/cf/6620cf06a7990e2439c4aeca9a3c4e91.gif" alt="animated" />
+ <img width="450" src="https://i.pinimg.com/originals/66/20/cf/6620cf06a7990e2439c4aeca9a3c4e91.gif" alt="animated" />
 </p> 
 
 ## 🛠️ Habilidades y Tecnologías
